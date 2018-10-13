@@ -32,34 +32,38 @@ of disaster risks and through training in what to do when disaster strikes, BEFO
 LESAT is initially targeted for the Philippines, a nation with frequent disasters of
 great variety: typhoons, mudslides, flooding, volcanic eruptions, earthquakes and
 tsunamis. An advanced industrial democracy like Japan, with its high GDP per capita,
-and high political cohesiveness, copes with a similar range of threats to its population,
-and manages to do so very well. The Philippines is poor, its government agencies
+and high political cohesiveness, copes with a similar range of threats to its population
+very well. The Philippines is poor, its government agencies
 aren't as well-funded or as well-regulated, and its political cohesiveness is not
-as strong, with some regions even pursuing autonomy arrangements. (We might even
-add "urban warfare" to the threat categories.) In this, it matches
+as strong, with some regions even pursuing autonomy arrangements. (We might
+add "urban warfare" to the threat categories, in view of insurgencies fought
+not just in the mountains, but in Zamboanga and Marawi.) In this, it matches
 the description of much of the developing world. But other nations suffer from
 a similar range of disasters. Why the Philippines especially?
 
-For an app to be developed in Japan, the Philippines is in fact a very good
-first choice among the plethora of nations that match the same criteria. It is roughly
+For an app to be developed in Japan, for humanitarian uses in the developing world,
+the Philippines is in fact a very good first choice among the plethora of nations
+that match the same governmental, economic and emergency criteria. It is roughly
 time-zone-aligned with Japan, which makes communications and coordination easier
 over the phone and by internet. The Philippines is not far from Japan, which reduces the cost
-of of the app's requirements. Japan hosts a large population of Filipinos (relative to other
-nationalities represented in Japan), and the relations between the two nations
+of face-to-face, ground-truth coordination on the app's requirements. Even in Japan, there
+is a good basis for understdning, since Japan hosts a large population of Filipinos (relative to other
+nationalities represented), and the relations between the two nations
 (despite past troubles) seem to be strengthening. In recent years, this strengthening
-can fairly be described as dramatic in the area of capacity development for the Philippines'
+can fairly be described as very dramatic in the area of capacity development for the Philippines'
 space program. Perhaps the best evidence for this is in the fruits of the cooperation between that
 program and several Japanese universities with excellent reputations in engineering:
 the Philippines has put up several small satellites with Japanese help.
 
-#### DRM App as local-to-international people-connector
+#### Disaster Risk Management App as local-to-international people-connector
 
 In some longer run, the Philippines may even be able to serve its own satellite remote sensing needs
-with its own engineers. In the meantime, however, Japan-Philippines cooperation helps cement the relations
-between governments. The problem is how to cement the relationship between these intergovernmental
-efforts and any true benefits for a disaster-beleagured population: how make a concrete connection between
-space-based disaster-related management information and the deployment of local resources
-for coordination and relief. This is where LESAT comes in.
+with its own engineers. In the meantime, however, Japan-Philippines cooperation in space helps cement the relations
+between governments, their space agencies, and the relevant academic disciplines in both nations.
+The problem is how to cement the relationship between these intergovernmental
+efforts and any true benefits for a disaster-beleagured population. It's in how make a concrete connection between
+space-based disaster-related management information and the deployment and coordination of local resources
+for disaster risk management. This is where LESAT comes in.
 
 
 
